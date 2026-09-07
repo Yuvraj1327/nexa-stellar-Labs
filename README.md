@@ -1,6 +1,6 @@
 # Nexa Stellar — Milestone-Based Decentralized Crowdfunding
 
-**Live Demo**: https://nexa-stellar-jug5.vercel.app
+**Live Demo**: `https://nexa-stellar.vercel.app/`
 
 **Network**: Stellar Testnet
 
@@ -10,8 +10,8 @@
 
 | Contract | Address |
 |---|---|
-| Crowdfunding (Level 1/2) | `CAHQCXE7OTEJU4UFL3H325RSJVC3RBPUJR4C6CRJHPSQSHAWXWF43JP2` |
-| Milestone Escrow (Level 3/4) | `CAVKC6G5XI52W3AWUM3MYA7TXDSNXJVZPDZSHOLVFCL7QED3BAFBZW42` |
+
+| Milestone Escrow  | `CAVKC6G5XI52W3AWUM3MYA7TXDSNXJVZPDZSHOLVFCL7QED3BAFBZW42` |
 
 **Deployment TX**: `2ac0cad463c507587826f06e8d7e8494268865f824fea859b3f513a01de8a677`
 
@@ -48,8 +48,6 @@ Nexa solves this with milestone-based escrow on Stellar:
 
 ## Features
 
-### Level 1 + 2 (White Belt + Orange Belt)
-
 - Connect and disconnect Stellar wallets (Freighter, LOBSTR, xBull, Albedo)
 - Live XLM balance fetched from Horizon API
 - Send XLM to any Stellar address on Testnet
@@ -58,8 +56,6 @@ Nexa solves this with milestone-based escrow on Stellar:
 - Wallet not installed, user rejected, insufficient balance error handling
 - Basic crowdfunding contract: create campaign, contribute, claim, cancel
 - Transaction history with pending / success / failed status
-
-### Level 3 + 4 (Yellow Belt + Green Belt)
 
 - Soroban escrow: XLM locked until milestone approved
 - Milestone management: creators define deliverables with XLM amounts
@@ -139,7 +135,7 @@ Creator creates campaign
 - Window: 7 days after proof submission
 - Double-vote prevention enforced on-chain
 
-### Crowdfunding Contract (Level 1/2)
+### Crowdfunding Contract 
 
 **Contract ID**: `CAHQCXE7OTEJU4UFL3H325RSJVC3RBPUJR4C6CRJHPSQSHAWXWF43JP2`
 
@@ -409,7 +405,7 @@ Set Freighter to **Testnet** in Settings → Network before connecting.
 - [x] Public GitHub repository
 - [x] README with setup instructions
 - [x] 15+ meaningful git commits
-- [x] Live demo — https://nexa-stellar-jug5.vercel.app
+- [x] Live demo — https://nexa-stellar.vercel.app/
 - [x] Wallet options — Freighter, Albedo, xBull, LOBSTR, Rabet
 - [x] Crowdfunding contract — `CAHQCXE7OTEJU4UFL3H325RSJVC3RBPUJR4C6CRJHPSQSHAWXWF43JP2`
 - [x] Milestone contract — `CAVKC6G5XI52W3AWUM3MYA7TXDSNXJVZPDZSHOLVFCL7QED3BAFBZW42`
