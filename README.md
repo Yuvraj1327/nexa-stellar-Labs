@@ -1,6 +1,6 @@
 # Nexa Stellar — Milestone-Based Decentralized Crowdfunding
 
-**Live Demo**: `https://nexa-stellar.vercel.app/`
+**Live Demo**: https://nexa-stellar.vercel.app/
 
 **Network**: Stellar Testnet
 
