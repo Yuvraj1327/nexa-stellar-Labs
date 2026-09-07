@@ -2,6 +2,8 @@
 
 **Live Demo**: https://nexa-stellar.vercel.app/
 
+**Demo video link**: 
+
 **Network**: Stellar Testnet
 
 ---
@@ -404,7 +406,7 @@ Set Freighter to **Testnet** in Settings → Network before connecting.
 
 - [x] Public GitHub repository
 - [x] README with setup instructions
-- [x] 15+ meaningful git commits
+- [x] 25+ meaningful git commits
 - [x] Live demo — https://nexa-stellar.vercel.app/
 - [x] Wallet options — Freighter, Albedo, xBull, LOBSTR, Rabet
 - [x] Crowdfunding contract — `CAHQCXE7OTEJU4UFL3H325RSJVC3RBPUJR4C6CRJHPSQSHAWXWF43JP2`
