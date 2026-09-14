@@ -2,7 +2,7 @@
 
 **Live Demo**: https://nexa-stellar.vercel.app/
 
-**Demo video link**: 
+**Demo video link**:  https://drive.google.com/file/d/1LDoInwwcHFtftww_SeMRo_oSTjfMy7_c/view?usp=sharing
 
 **Network**: Stellar Testnet
 
