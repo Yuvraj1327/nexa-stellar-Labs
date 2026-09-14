@@ -358,3 +358,5 @@ export function useClaimFunds() {
 // Backwards-compat aliases
 export const useAllCampaigns = useCampaigns;
 export const useFetchCampaign = useCampaign;
+
+//use -cam-.ts
