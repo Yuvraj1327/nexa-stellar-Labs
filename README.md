@@ -223,7 +223,10 @@ brew install stellar-cli
 ```
 
 
+
 **THESE ARE MOBILE RESPONSIVE UI**: 
+
+
 
 
 
@@ -231,6 +234,7 @@ brew install stellar-cli
   <img src="./images-UI/UI-1.png" width="220">
   <img src="./images-UI/UI-2.png" width="220">
   <img src="./images-UI/UI-3.png" width="220">
+  
   <img src="./images-UI/UI-4.png" width="220">
 </p>
 
