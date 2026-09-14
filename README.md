@@ -222,6 +222,22 @@ brew install stellar-cli
 # https://freighter.app
 ```
 
+
+
+
+
+<p align="center">
+  <img src="./images-ui/UI-1.png" width="220">
+  <img src="./images-ui/UI-2.png" width="220">
+  <img src="./images-ui/UI-3.png" width="220">
+  <img src="./images-ui/UI-4.png" width="220">
+</p>
+
+
+
+
+
+
 ### 1. Clone and install
 
 ```bash
